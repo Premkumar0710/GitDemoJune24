@@ -3,3 +3,5 @@ bangalore
 mumbai
 delhi
 noida
+faridabad
+
